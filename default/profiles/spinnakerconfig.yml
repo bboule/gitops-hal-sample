@@ -5,10 +5,8 @@ spring:
     config:
       server:
         git:
-          uri: "DYNAMIC_ACCOUNTS_REPO"
-          username: "GIT_USER"
-          password: "GIT_TOKEN"
-          basedir: "/tmp/config-repo"
-          refresh-rate: 10
+          uri: "https://github.com/bboule/gitops-accounts-sample.git"
+          username: "bboule"
+          password: "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"
 encrypt:
   key: "Q7udUkHPuA3VnNlOtksSgQ"
