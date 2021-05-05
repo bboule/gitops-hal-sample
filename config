@@ -283,7 +283,7 @@ deploymentConfigurations:
       - name: "boule-jenkins"
         permissions: {}
         address: "http://35.225.190.54:8080/"
-        username: "bboule"
+        username: "admin"
         password: "bAjNpUMO+7sDwW6BfrEOfnE77bMgaN5l8HZ7PqdXwuYP4Wn3CPCRAZh+3DZn68Cx"
     travis:
       enabled: false
