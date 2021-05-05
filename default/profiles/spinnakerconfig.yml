@@ -7,6 +7,6 @@ spring:
         git:
           uri: "https://github.com/bboule/dnyaccts.git"
           username: "bboule"
-          password: "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"
+          password: "Goyanks#2416"
 encrypt:
   key: "Q7udUkHPuA3VnNlOtksSgQ"
