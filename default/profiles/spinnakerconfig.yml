@@ -5,8 +5,8 @@ spring:
     config:
       server:
         git:
-          uri: "https://github.com/bboule/dnyaccts.git"
+          uri: "https://github.com/bboule/gitops-hal-sample.git"
           username: "bboule"
-          password: "Goyanks#2416"
+          password: "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"
 encrypt:
   key: "Q7udUkHPuA3VnNlOtksSgQ"
