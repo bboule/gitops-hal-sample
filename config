@@ -277,9 +277,9 @@ deploymentConfigurations:
       masters:
       - name: "jenkins-master"
         permissions: {}
-        address: "<JENKINS_URL>"
-        username: "${jenkins.username}"
-        password: "${jenkins.password}"
+        address: "http://35.225.190.54:8080/"
+        username: "admin"
+        password: "Goyanks2416"
     travis:
       enabled: false
       masters: []
