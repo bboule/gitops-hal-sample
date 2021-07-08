@@ -54,7 +54,6 @@ deploymentConfigurations:
       enabled: true
       accounts:
       - name: "spinnaker-gcs-account"
-      - json-path: "~/.gcp/gcs-account.json"
       - project: "spinnaker-291817"
       bakeryDefaults:
         templateFile: "gce.json"
